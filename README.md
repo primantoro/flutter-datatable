@@ -1,6 +1,9 @@
 # crud_xampp
 
-A new Flutter project.
+read Data table from xampp in flutter
+
+[afe7f1cb-a06d-4f8f-92d1-2cbe9aca36a1.webm](https://user-images.githubusercontent.com/74030159/202194693-34496215-47ad-4263-bf96-b7c29a00ff89.webm)
+
 
 ## Getting Started
 
